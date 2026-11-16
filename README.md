@@ -4,7 +4,7 @@ English static landing page for GitHub Pages.
 
 ## Maintain
 
-Edit `index.html` for text and links, `styles.css` for appearance, and `assets/` for artwork. No build or JavaScript required. Preview with `python3 -m http.server 8765`.
+Edit `index.html` for text and links, `styles.css` for appearance, and `assets/` for artwork. No build required. Google tag G-G60GH1EZV3 is installed in the document head using the user-provided snippet. Preview with `python3 -m http.server 8765`.
 
 Promotion destination: `https://themoviebox.xyz?utm_source=sitesgithub`. GitHub Pages campaign source, as requested by the user. All 36 poster titles and 8 text CTAs use direct HTML links; posters are not linked. Five mood links target local sections.
 
