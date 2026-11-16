@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ajingyx.github.io/movie-box/sitemap.xml
